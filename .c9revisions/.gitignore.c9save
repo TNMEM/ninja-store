@@ -1,0 +1,5 @@
+{"ts":1374449485214,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"node_modules/"]],"start1":0,"start2":0,"length1":0,"length2":13}]],"length":13}
+{"contributors":[],"silentsave":false,"ts":1374449510384,"patch":[[{"diffs":[[-1,"node_modules/"],[1,".c9revisions/*\n"]],"start1":0,"start2":0,"length1":13,"length2":15}]],"length":15,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1374451787049,"patch":[[{"diffs":[[0,"sions/*\n"],[1,"heroku-client\n"]],"start1":7,"start2":7,"length1":8,"length2":22}]],"length":29,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1374452878524,"patch":[[{"diffs":[[0,"-client\n"],[1,"node_modules\n"]],"start1":21,"start2":21,"length1":8,"length2":21}]],"length":42,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1375498592388,"patch":[[{"diffs":[[0,"ions"],[-1,"/*\nheroku-client\nnode_modules"],[0,"\n"]],"start1":8,"start2":8,"length1":34,"length2":5}]],"length":13,"saved":false}
